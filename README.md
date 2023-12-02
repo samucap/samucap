@@ -1,6 +1,6 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=samucap&style=flat-square&color=blue" alt=""/> -->
 [![Samuca's GitHub stats](https://github-readme-stats-five-chi-84.vercel.app/api?username=samucap&show_icons=true&theme=panda)](https://github.com/samucap)
-[![Top Langs](https://github-readme-stats-five-chi-84.vercel.app/api/top-langs/?username=samucap&layout=compact&theme=vision-friendly-dark)](https://github.com/samucap)
+[![Top Langs](https://github-readme-stats-five-chi-84.vercel.app/api/top-langs/?username=samucap&layout=compact&theme=vision-friendly-dark&size_weight=0.5&count_weight=1.5)](https://github.com/samucap)
 
 <!--
 **samucap/samucap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
