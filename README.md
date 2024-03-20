@@ -1,5 +1,4 @@
-[![Top Langs](https://github-readme-stats-five-chi-84.vercel.app/api/top-langs/?username=samucap&layout=compact&theme=vision-friendly-dark&size_weight=0.5&count_weight=1.5)](https://github.com/samucap)
-
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samucap&show_icons=true&theme=transparent)
 <!--
 **samucap/samucap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
