@@ -1,4 +1,11 @@
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samucap&show_icons=true&theme=transparent)
+### My GitHub stats
+
+<a href="https://github.com/samucap/github-readme-stats">
+  <img height=200 align="center" src="https://readme-stats-pied-one.vercel.app/api?username=samucap&show_icons=true&theme=transparent&include_all_commits=true" />
+</a>
+<a href="https://github.com/samucap/github-readme-stats">
+  <img height=200 align="center" src="https://readme-stats-pied-one.vercel.app/api/top-langs/?username=samucap&layout=compact&exclude_repo=bejeweled,redux,assembly_lines,assembly-line,ng2-client,p.github.io,readme-stats,github-readme-stats&theme=transparent&card_width=320" />
+</a>
 <!--
 **samucap/samucap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
