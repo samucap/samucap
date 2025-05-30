@@ -1,6 +1,6 @@
-<a href="https://github.com/samucap">
+<!-- <a href="https://github.com/samucap">
   <img align="center" src="https://my-github-readme-stats-gamma.vercel.app/api?username=samucap&show_icons=true&theme=dark&include_all_commits=true" style="height: 12em" />
-</a>
+</a>-->
 <a href="https://github.com/samucap">
   <img align="center" src="https://my-github-readme-stats-gamma.vercel.app/api/top-langs/?username=samucap&layout=compact&exclude_repo=bejeweled,redux,assembly_lines,assembly-line,ng2-client,p.github.io,readme-stats,github-readme-stats&theme=dark&hide_progress=true&size_weight=0.5&count_weight=0.5&hide=css,scss,html&card_width=300" style="height: 12em" />
 </a>
