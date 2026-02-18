@@ -1,11 +1,7 @@
 <!-- <a href="https://github.com/samucap">
   <img align="center" src="https://my-github-readme-stats-gamma.vercel.app/api?username=samucap&show_icons=true&theme=dark&include_all_commits=true" style="height: 12em" />
 </a>-->
-<a href="https://github.com/samucap">
-  <img align="center" src="https://my-github-readme-stats-gamma.vercel.app/api/top-langs/?username=samucap&layout=compact&exclude_repo=bejeweled,redux,assembly_lines,assembly-line,ng2-client,p.github.io,readme-stats,github-readme-stats&theme=dark&hide_progress=true&size_weight=0.5&count_weight=0.5&hide=css,scss,html&card_width=300" style="height: 12em; display: block" />
-</a>
-
-Technical Portfolio: Autonomous Agent Systems
+# Technical Portfolio: Autonomous Agent Systems
 
 A showcase of real-world applications leveraging multi-agent LLM orchestration and high-performance data pipelines to solve complex challenges in finance, governance, and multimedia.
 1. Polymarket Autonomous Trading Framework [![Frontend Demo WIP](https://raw.githubusercontent.com)](https://vimeo.com/1165880877?fl=tl&fe=ec)
@@ -38,7 +34,9 @@ A showcase of real-world applications leveraging multi-agent LLM orchestration a
 
     Objective: To redefine online trust by enabling users to prove their identity and credentials without sacrificing data privacy. The primary objective is to build a secure, decentralized authentication framework that utilizes zero-knowledge proofs to protect sensitive user information in the modern digital landscape.
 
-    Topics: Zero-Knowledge Proofs (ZKP) Cryptography Decentralized Identity (DID) Privacy Engineering Blockchain Security.
+    Topics: Zero-Knowledge Proofs (ZKP) | Cryptography | Decentralized Identity (DID) | Privacy Engineering | Blockchain | Security.
+
+  <img align="center" src="https://my-github-readme-stats-gamma.vercel.app/api/top-langs/?username=samucap&layout=compact&exclude_repo=bejeweled,redux,assembly_lines,assembly-line,ng2-client,p.github.io,readme-stats,github-readme-stats&theme=dark&hide_progress=true&size_weight=0.5&count_weight=0.5&hide=css,scss,html&card_width=300" style="height: 12em; display: block" />
 <!--
 **samucap/samucap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
