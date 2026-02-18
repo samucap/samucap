@@ -4,8 +4,7 @@
 # Technical Portfolio: Autonomous Agent Systems
 
 A showcase of real-world applications leveraging multi-agent LLM orchestration and high-performance data pipelines to solve complex challenges in finance, governance, and multimedia.
-### Polymarket Autonomous Trading Framework [![Frontend Demo WIP](https://raw.githubusercontent.com)](https://vimeo.com/1165880877?fl=tl&fe=ec)
-
+### Polymarket Autonomous Trading Framework [![Frontend Demo WIP](https://raw.githubusercontent.com)](https://vimeo.com/1165880877?share=copy&fl=sv&fe=ci).
     Objective: To provide a competitive edge in decentralized prediction markets by transforming raw market data into actionable institutional-grade signals. This platform aims to automate the end-to-end lifecycle of a trade—from detecting market inefficiencies to risk-adjusted execution—minimizing human latency in high-stakes environments.
 
     Topics: Go | Python | PostgreSQL | ETL Pipeline | Data Engineering | AI/ML | Prediction Market Analysis | Blockchain.
