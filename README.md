@@ -1,11 +1,10 @@
- 
-  <img align="center" src="https://my-github-readme-stats-gamma.vercel.app/api/top-langs/?username=samucap&layout=compact&exclude_repo=bejeweled,redux,assembly_lines,assembly-line,ng2-client,p.github.io,readme-stats,github-readme-stats&theme=dark&hide_progress=true&size_weight=0.5&count_weight=0.5&hide=css,scss,html&card_width=300" style="height: 12em; display: block" />
+  <img align="center" src="https://my-github-readme-stats-gamma.vercel.app/api/top-langs/?username=samucap&layout=compact&exclude_repo=bejeweled,redux,assembly_lines,assembly-line,ng2-client,p.github.io,readme-stats,github-readme-stats&theme=dark&hide_progress=true&count_weight=0.5&hide=css,scss,html&card_width=300" style="height: 12em; display: block" />
 <!--
 **samucap/samucap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+Hi I'm Sam
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
