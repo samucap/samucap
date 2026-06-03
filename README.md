@@ -1,6 +1,6 @@
 #### Hi, I'm Sam
   - AI haunts (jk) my dreams in many ways, including but not limited to making almost everything more accessible and more interesting.
-  - I'm learning more about cybersec, agentic systems, hardware with rasberry pi...
+  - I'm learning more about cybersec, agentic systems, hardware with rasberry pi... The following are all work-in-progress projects, and making all this public makes me really nervous, especially with the infra stuff, but necesito un trabajo, mucho pronto. So.
   - I'm currently working on:
       - optimizing my infrastructure
           - management of secure virtual machines with vagrant, ansible, packer for multi-purpose rapid reusability, i.e. labs, sandboxes, malware analysis; secure cloud deployments with terraform
