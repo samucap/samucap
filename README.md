@@ -1,4 +1,5 @@
 #### Hi, I'm Sam.
+###### AI haunts my dreams in many ways, including but not limited to, making almost everything more accessible and more interesting. Continuously honing my diverse background and cross-disciplinary systems thinking to translate complex patterns into actionable strategies.
 - Currently upskilling in cybersec, AI/ML and agentic systems, hardware, and more.
 - I'm currently working on:
     - **Infra & cybersec** I like "feeling" secure. Peace of mind for the voices in my head :sparkles:
@@ -13,7 +14,6 @@
     - **Agentic systems**
         - work in progress to build agentic systems for researching and prototyping for various projects
 
-###### AI haunts my dreams in many ways, including but not limited to, making almost everything more accessible and more interesting.
 <img align="center" src="https://my-github-readme-stats-gamma.vercel.app/api/top-langs/?username=samucap&layout=compact&exclude_repo=bejeweled,redux,assembly_lines,assembly-line,ng2-client,p.github.io,readme-stats,github-readme-stats&theme=dark&hide_progress=true&count_weight=0.5&hide=css,scss,html&card_width=300" style="height: 12em; display: block" />
 <!--
 **samucap/samucap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
