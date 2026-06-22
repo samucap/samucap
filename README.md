@@ -1,16 +1,7 @@
 #### Hi, I'm Sam.
-###### AI haunts my dreams in many ways, including but not limited to, making almost everything more accessible and more interesting. Continuously honing my diverse background and cross-disciplinary systems thinking to translate complex patterns into actionable strategies.
 - Currently upskilling in cybersec, AI/ML and agentic systems, hardware, and more.
 - I'm currently working on:
-    - **Infra & cybersec** I like "feeling" safe and secure.
-        - automating secure virtual machines with tools such as vagrant, ansible, packer for multi-purpose and rapid reusability, i.e. labs, sandboxes for testing, malware analysis; secure cloud deployments with terraform
-        - WIP - homelab setup with optimized network
-    - **Trading bot** Prediction market trading bot.
-        - Adel - frontend with react
-        - Orion2.0 - Go API
-        - poly-asian-data - a concurrent data fetching pipeline for polymarket data written in Go. Currently only public APIs as on-chain data or news sentiment's cost extra
-        - poly-asian-ft - feature engineering pipeline in python
-        - WIP - multi-agent system to consume data, analyze it and generate most optimal signals and execute orders
+    - **Infra & cybersec**
     - **Agentic systems**
         - work in progress to build agentic systems for researching and prototyping for various projects
 
